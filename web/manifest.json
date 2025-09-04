@@ -1,6 +1,6 @@
 {
-    "name": "connectivity_manager",
-    "short_name": "connectivity_manager",
+    "name": "connectivity_manager_plus",
+    "short_name": "connectivity_manager_plus",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

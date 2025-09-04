@@ -1,14 +1,13 @@
-name: connectivity_manager
+name: connectivity_manager_plus
 description: >
-  📶 A Flutter utility package to monitor internet connectivity in real-time
+  A Flutter utility package to monitor internet connectivity in real-time
   with customizable Snackbar, Alert Dialog, Full-Screen, or your own custom UI.
   Built on top of connectivity_plus. Open-source and developer-friendly.
 
 # Remove this line to allow publishing on pub.dev
-# publish_to: 'none'
+publish_to: 'https://pub.dev/packages/connectivity_manager_plus'
 
-version: 1.0.0+1
-
+version: 1.0.0
 environment:
   sdk: ">=3.0.0 <4.0.0"
 
@@ -27,7 +26,7 @@ flutter:
   uses-material-design: true
 
 # Extra metadata for pub.dev & GitHub
-repository: https://github.com/BuckyBanaz/connectivity_manager
-homepage: https://github.com/BuckyBanaz/connectivity_manager
-issue_tracker: https://github.com/BuckyBanaz/connectivity_manager/issues
-documentation: https://pub.dev/documentation/connectivity_manager/latest/
+repository: https://github.com/BuckyBanaz/connectivity_manager_plus
+homepage: https://github.com/BuckyBanaz/connectivity_manager_plus
+issue_tracker: https://github.com/BuckyBanaz/connectivity_manager_plus/issues
+documentation: https://pub.dev/documentation/connectivity_manager_plus/latest/

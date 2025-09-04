@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:connectivity_manager/connectivity_manager.dart';
+
+import '../../connectivity_manager_plus.dart';
+
 
 void main() {
   runApp(const MyApp());
@@ -193,7 +195,7 @@ class HomePage extends StatelessWidget {
               ),
               const Spacer(),
               Text(
-                "Made with ❤️ using connectivity_manager",
+                "Made with ❤️ using connectivity_manager_plus",
                 style: theme.textTheme.bodySmall?.copyWith(
                   color: theme.colorScheme.onSurface.withOpacity(0.5),
                 ),

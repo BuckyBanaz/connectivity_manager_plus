@@ -1,4 +1,4 @@
-library connectivity_manager;
+library connectivity_manager_plus;
 
 export 'src/connectivity_service.dart';
 export 'src/connectivity_config.dart';

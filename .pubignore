@@ -1,0 +1,22 @@
+# Ignore build outputs
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.dart_tool/
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore platform-specific folders (not needed for pure package)
+android/
+ios/
+linux/
+macos/
+windows/
+web/
+
+# Misc
+*.iml
