@@ -152,5 +152,5 @@ This project is licensed under the **MIT License**.
 
 ---
 
-Made with ❤️ by [Parikshit Verma](https://parikshit.techycodex.com) — [TechCodex](https://techycodex.com)
+Made with ❤️ by [Parikshit Verma](https://parikshit.techycodex.com) — [TechyCodex](https://techycodex.com)
 
